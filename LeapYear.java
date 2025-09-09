@@ -30,7 +30,6 @@ public class LeapYear {
             else {
                 notLeapCount++;
             }
-
             start++;
         }
 
